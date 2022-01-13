@@ -13,15 +13,30 @@ Wget komudunu kullanarak verilen linkteki verileri parameterelere uygun şekilde
 
 #### -c
 
+Daha önceden bir dosyaya indirilmeye başlanmış ancak tamamlanmamış bir indirme işlemi var diyelim.
+Bu işleme <b>-c</b> ile kaldığı yerden devam edebilirsiniz
+
 #### -r -A
+
+İndirme işlemini sadece belirli dosyalar için yapmak istiyorsak bu parametreyi kullanmalıyız.,
+Bu parametreye istenilen uzantıyı vererek sadece o uzantıdaki verilerin indirilmesini sağlayabiliriz.
 
 #### -r -R
 
+İndirme işlemini sadece belirli bir uzantıda olan veriyi indirmemek kalan tüm verileri indirmek için kullanabilirsiniz.
+
 #### -b
+
+İndirme işlemini arkaplanda yürütmek için kullanabilirsiniz.
 
 #### --no-check-cercitificate
 
+Bu parametreyi karşı tarafın sertifikasını denetlemeden indirme yapmak için kullanabilirsiniz.
+
 #### -O
+
+İndirme işlemini belirli dosyaya yapmak için kullanabilirsiniz.
+
 
 ### Kullanım
 İlk olarak bir linux tabanlı sisteme ihtiyacımız var.
@@ -51,13 +66,16 @@ Linkteki verileri indirmek için istediğimiz parametreyi seçiyoruz.
 
 
 
-## Nasıl Kurulur?
+
 
 
 
  
 # 💻 Teknolojiler 
 
+ - Bash Script
+ - Zenity
+ - Nano
 
 
 
