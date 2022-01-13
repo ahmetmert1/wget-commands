@@ -44,10 +44,15 @@ Linkteki verileri indirmek için istediğimiz parametreyi seçiyoruz.
 
 -r -A  veya  -r  -R  parametresini seçersek olmasını istediğimiz ya da olmamasını istediğimiz parametreyi giriyoruz.
 
+<img src="wget/resim6.PNG" >
+
+<img src="wget/resim7.PNG" > 
+
+
 
 
 ## Nasıl Kurulur?
-👉[APK Dosyası](https://github.com/ahmetmert1/agnocalculator/blob/master/app-release.apk)👈 'na tıklayarak indirimi tamamladıktan sonra telefonunuza kurup uygulamayı kullanabilirsiniz.
+
 
 
  
