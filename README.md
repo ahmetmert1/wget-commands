@@ -2,7 +2,7 @@
 
 <b>Bu projede Linux Shell'de <b>wget</b> komutunu ve bazı parametrelerini uyguladım.</b>
 
-<img src="belediyeappdata/kapak.PNG">
+<img src="wget/resim5.PNG">
 
 
 ## Uygulamanın Amacı
@@ -22,7 +22,28 @@ Wget komudunu kullanarak verilen linkteki verileri parameterelere uygun şekilde
 #### --no-check-cercitificate
 
 #### -O
-<img src="belediyeappdata/anasayfa.PNG" width="250" height="500"> <img src="belediyeappdata/galerisayfa.PNG" width="250" height="500"> <img src="belediyeappdata/eczanesayfa.PNG" width="280" height="500"> 
+
+### Kullanım
+İlk olarak bir linux tabanlı sisteme ihtiyacımız var.
+Bu sisteme last klasörünü indirdikten sonra shelle giriyoruz.
+
+Shell'e    <b>bash last</b>   dedikten sonra hazırlanan GUI geliyor.
+
+Gelen forma indirmek istediğimiz linki giriyoruz.
+
+<img src="wget/resim1.PNG" > 
+
+
+Ardından gelen formda indirilecek linki indirmek istediğimiz dosyanın adını giriyoruz.
+
+<img src="wget/resim2.PNG" > 
+
+Linkteki verileri indirmek için istediğimiz parametreyi seçiyoruz.
+
+<img src="wget/resim3.PNG" > 
+
+-r -A  veya  -r  -R  parametresini seçersek olmasını istediğimiz ya da olmamasını istediğimiz parametreyi giriyoruz.
+
 
 
 ## Nasıl Kurulur?
